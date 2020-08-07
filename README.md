@@ -1,4 +1,6 @@
-# Visualizing-Earthquake-Data-with-Leaflet
+# Visualizing Earthquake Data with Leaflet
+
+https://nazzy88.github.io/Visualizing-Earthquake-Data-with-Leaflet/
 
 ## Background
 
